@@ -1,0 +1,19 @@
+{
+   "chart": {
+      "caption": "Temperature Monitor",
+      "subcaption": " 当前平均温度",
+      "lowerLimit": "20",
+      "upperLimit": "35",
+      "numberSuffix": "°C",
+      "decimals": "1",
+      "showhovereffect": "1",
+      "thmFillColor": "#008ee4",
+      "showGaugeBorder": "1",
+      "gaugeBorderColor": "#008ee4",
+      "gaugeBorderThickness": "2",
+      "gaugeBorderAlpha": "70",
+      "thmOriginX": "100",
+      "theme": "zune"
+   },
+   "value": "24"
+}
